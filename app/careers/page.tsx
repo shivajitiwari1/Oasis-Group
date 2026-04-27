@@ -38,7 +38,7 @@ export default function CareersPage() {
           <div className="section-label">Why Oasis</div>
           <h2 className="section-title">A Place to Grow</h2>
           <div className="gold-line" style={{ marginBottom: 40 }} />
-          <div className="why-grid" style={{ gridTemplateColumns: 'repeat(4,1fr)', marginBottom: 0 }}>
+          <div className="why-grid why-grid-4">
             {perks.map((p, i) => (
               <div key={i} className="why-card">
                 <div className="why-icon">{p.icon}</div>
