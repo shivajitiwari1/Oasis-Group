@@ -189,7 +189,7 @@ export default function HomePage() {
             <div className="section-label">Coming Soon</div>
             <h2 className="section-title">Upcoming Projects</h2>
             <div className="gold-line" />
-            <div className="projects-grid" style={{ marginTop: 40, gridTemplateColumns: 'repeat(2,1fr)' }}>
+            <div className="projects-grid" style={{ marginTop: 40 }}>
               {upcoming.map(p => (
                 <div key={p.id} className="proj-card">
                   <div className="proj-img-wrap" style={{ background: 'linear-gradient(135deg,#0f2044,#1a3060)', height: 200, display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
