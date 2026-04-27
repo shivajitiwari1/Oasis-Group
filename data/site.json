@@ -1,0 +1,234 @@
+{
+  "hero": {
+    "badge": "NCR's Trusted Real Estate Developer Since 2002",
+    "title": "Where Dreams Find Their Address",
+    "subtitle": "Building lives, not just homes",
+    "description": "Oasis Group has delivered over 2.2 million sq. ft. of premium residential spaces across Delhi NCR — with uncompromising quality and complete transparency since 2002.",
+    "btn1": { "label": "Explore Projects", "href": "/projects" },
+    "btn2": { "label": "Our Story", "href": "/about" }
+  },
+  "stats": [
+    { "num": "500", "suffix": "+", "label": "Satisfied Clients" },
+    { "num": "2.2", "suffix": "M+ Sq.Ft", "label": "Delivered" },
+    { "num": "23", "suffix": "+", "label": "Years in Business" },
+    { "num": "3", "suffix": "", "label": "Communities Built" }
+  ],
+  "about": {
+    "heading": "Client-Driven. Quality-Obsessed. Transparently Delivered.",
+    "shortDesc": "Since 2002, Oasis Group has delivered more than 2.2 Million sq. ft. of premium residential spaces. We combine innovative design with the finest materials — always on time, always within your expectations.",
+    "fullDesc": "We at Oasis Group have always believed that what we dream is what we achieve. Since our modest but ambitious beginning in 2002, we had only one dream — to make Oasis Group one of the foremost names in real estate in Delhi NCR. After an initial foray into project management of numerous residential & commercial projects across Noida and Greater Noida, we started independent construction with Oasis Homes. Today we have delivered more than 2.2 Million sq. ft. of residential spaces and more than 2 Million sq. ft. of development is in progress.",
+    "pillars": [
+      { "icon": "🏗️", "title": "Quality First", "desc": "Best materials, no compromise on construction standards" },
+      { "icon": "🤝", "title": "Transparency", "desc": "Full visibility and honesty at every stage of your journey" },
+      { "icon": "⏰", "title": "On-Time Delivery", "desc": "Our commitment to timelines is written into every contract" },
+      { "icon": "🌿", "title": "Green Living", "desc": "Sustainable, environment-conscious communities for the future" }
+    ]
+  },
+  "leadership": {
+    "name": "Sanjay Singh",
+    "title": "CMD — Founder & Promoter",
+    "image": "https://www.oasis.in/wp-content/uploads/2025/03/sanjaysir.jpg",
+    "bio": "Sanjay Singh, the founder promoter and CMD of Oasis Group, has experience of around two decades in the real estate sector. He is responsible for the overall working of the Company and instrumental in making strategic decisions pertaining to Finance, Land Allotments & Department liaison. Confidence, Focus and correct move at the right time define his persona. His strong conviction & positive energy helped the company sustain positively in the growing competitive market."
+  },
+  "values": [
+    { "icon": "🏦", "title": "Financial Integrity", "desc": "We work with professionalism to meet all obligations — to clients, authorities, banks and vendors — with honesty and compliance with our ethical principles, creating sustainable added value." },
+    { "icon": "🤝", "title": "Customer Service", "desc": "With clear focus on high-level transparency and understanding our clients' needs, we continually strive to assess and increase satisfaction while strengthening lasting bonds." },
+    { "icon": "🌟", "title": "Leadership", "desc": "We influence positively, guiding team members towards their goals, encouraging personal development while fostering passion and ambition to achieve their objectives." },
+    { "icon": "🎯", "title": "Commitment", "desc": "We work to the highest level of commitment and initiative to meet all obligations, embracing every challenge with the ambition of surpassing expectations." },
+    { "icon": "💡", "title": "Innovation", "desc": "Continual self-improvement is an evolving feature of our strategy — staying at the forefront of high-quality construction levels in all our projects." },
+    { "icon": "🌱", "title": "Sustainability", "desc": "Building communities that are not just structurally sound but environmentally conscious — creating spaces for a sustainable, flourishing future." }
+  ],
+  "projects": [
+    {
+      "id": "grandstand-1",
+      "slug": "grandstand-phase-1",
+      "name": "Oasis Grandstand",
+      "phase": "Phase 1",
+      "location": "Yamuna Expressway",
+      "city": "Greater Noida West",
+      "status": "delivered",
+      "statusLabel": "Ready to Move",
+      "families": "350+",
+      "bhk": "2 & 3 BHK",
+      "nearbyLabel": "Near Noida Airport & F1 Circuit",
+      "rera": "UPRERAPRJ6908",
+      "image": "https://www.oasis.in/wp-content/uploads/2025/04/grand.jpg",
+      "tagline": "Bang on the Main Yamuna Expressway",
+      "desc": "Amidst the fastest emerging expanse of Delhi NCR, Oasis Grandstand Phase 1 offers premium 2 & 3 BHK residences in close vicinity to Noida International Airport and the iconic F1 Circuit.",
+      "highlights": ["Yamuna Expressway Frontage","Near Jewar International Airport","F1 Circuit Proximity","Premium Club House","World-Class Amenities","RERA Registered"],
+      "amenities": [
+        { "icon": "🏊", "label": "Swimming Pool" },
+        { "icon": "🏋️", "label": "Gymnasium" },
+        { "icon": "🎮", "label": "Club House" },
+        { "icon": "🌳", "label": "Landscaped Parks" },
+        { "icon": "🛡️", "label": "24/7 Security" },
+        { "icon": "🚗", "label": "Covered Parking" },
+        { "icon": "⚡", "label": "Power Backup" },
+        { "icon": "🏸", "label": "Sports Courts" }
+      ],
+      "configs": [
+        { "type": "2 BHK", "area": "850 – 950 sq.ft.", "floor": "G+14", "price": "On Request" },
+        { "type": "3 BHK", "area": "1100 – 1250 sq.ft.", "floor": "G+14", "price": "On Request" }
+      ]
+    },
+    {
+      "id": "venetia",
+      "slug": "venetia-heights",
+      "name": "Oasis Venetia Heights",
+      "phase": "",
+      "location": "Greater Noida",
+      "city": "Greater Noida",
+      "status": "delivered",
+      "statusLabel": "Ready to Move",
+      "families": "350+",
+      "bhk": "1, 2 & 3 BHK",
+      "nearbyLabel": "Heart of Greater Noida",
+      "rera": "UPRERAPRJ1646",
+      "image": "https://www.oasis.in/wp-content/uploads/2025/03/venetia.jpg",
+      "tagline": "A Perfect Address in the Heart of Greater Noida",
+      "desc": "A perfect address nestled in the heart of Greater Noida with limited options available. 350+ families already residing in this meticulously planned residential community.",
+      "highlights": ["Central Greater Noida Location","350+ Families Residing","1, 2 & 3 BHK Options","Ready to Move","Limited Units Available","RERA Registered"],
+      "amenities": [
+        { "icon": "🏊", "label": "Swimming Pool" },
+        { "icon": "🏋️", "label": "Gymnasium" },
+        { "icon": "🎮", "label": "Club House" },
+        { "icon": "🌳", "label": "Green Spaces" },
+        { "icon": "🛡️", "label": "Security" },
+        { "icon": "🚗", "label": "Parking" },
+        { "icon": "⚡", "label": "Power Backup" },
+        { "icon": "👶", "label": "Children's Play Area" }
+      ],
+      "configs": [
+        { "type": "1 BHK", "area": "550 – 650 sq.ft.", "floor": "G+14", "price": "On Request" },
+        { "type": "2 BHK", "area": "800 – 950 sq.ft.", "floor": "G+14", "price": "On Request" },
+        { "type": "3 BHK", "area": "1050 – 1200 sq.ft.", "floor": "G+14", "price": "On Request" }
+      ]
+    },
+    {
+      "id": "homes",
+      "slug": "homes",
+      "name": "Oasis Homes",
+      "phase": "",
+      "location": "Greater Noida",
+      "city": "Greater Noida",
+      "status": "delivered",
+      "statusLabel": "130+ Families",
+      "families": "130+",
+      "bhk": "2 & 3 BHK",
+      "nearbyLabel": "Near Noida Airport",
+      "rera": "RERA Registered",
+      "image": "https://www.oasis.in/wp-content/uploads/2025/03/homes.jpg",
+      "tagline": "Beauty and Functionality in Perfect Harmony",
+      "desc": "Homes exhibiting a perfect combination of beauty and functionality. With 130+ families already residing, Oasis Homes offers a vibrant, well-established community in Greater Noida.",
+      "highlights": ["130+ Families Residing","Near Noida Airport","2 & 3 BHK Options","Vibrant Community","Premium Amenities","Green Surroundings"],
+      "amenities": [
+        { "icon": "🏊", "label": "Swimming Pool" },
+        { "icon": "🏋️", "label": "Gymnasium" },
+        { "icon": "🌳", "label": "Park & Gardens" },
+        { "icon": "🛡️", "label": "Security" },
+        { "icon": "🚗", "label": "Parking" },
+        { "icon": "⚡", "label": "Power Backup" },
+        { "icon": "👶", "label": "Play Area" },
+        { "icon": "🏸", "label": "Sports Facilities" }
+      ],
+      "configs": [
+        { "type": "2 BHK", "area": "820 – 920 sq.ft.", "floor": "G+10", "price": "On Request" },
+        { "type": "3 BHK", "area": "1080 – 1180 sq.ft.", "floor": "G+10", "price": "On Request" }
+      ]
+    },
+    {
+      "id": "grandstand-2",
+      "slug": "grandstand-phase-2",
+      "name": "Oasis Grandstand",
+      "phase": "Phase 2",
+      "location": "Yamuna Expressway",
+      "city": "Greater Noida West",
+      "status": "upcoming",
+      "statusLabel": "Upcoming",
+      "families": "Book Now",
+      "bhk": "2 & 3 BHK",
+      "nearbyLabel": "Near Jewar Airport & F1 Circuit",
+      "rera": "UPRERAPRJ585804",
+      "image": "",
+      "tagline": "The Next Chapter of NCR's Most Celebrated Address",
+      "desc": "Building on the massive success of Phase 1, Oasis Grandstand Phase 2 offers enhanced amenities and premium residences at the most strategically located address on the Yamuna Expressway.",
+      "highlights": ["Prime Yamuna Expressway Location","Near Jewar International Airport","Premium 2 & 3 BHK Homes","Enhanced Amenities Over Phase 1","RERA Registered","Early Investor Pricing"],
+      "amenities": [
+        { "icon": "🏊", "label": "Olympic Pool" },
+        { "icon": "🏋️", "label": "Premium Gym" },
+        { "icon": "🎮", "label": "Grand Club House" },
+        { "icon": "🌳", "label": "Landscaped Gardens" },
+        { "icon": "🛡️", "label": "Smart Security" },
+        { "icon": "🚗", "label": "Multi-level Parking" },
+        { "icon": "⚡", "label": "100% Power Backup" },
+        { "icon": "🏸", "label": "Multiple Sports Courts" }
+      ],
+      "configs": [
+        { "type": "2 BHK", "area": "900 – 1050 sq.ft.", "floor": "G+18", "price": "Call for Price" },
+        { "type": "3 BHK", "area": "1150 – 1350 sq.ft.", "floor": "G+18", "price": "Call for Price" }
+      ]
+    },
+    {
+      "id": "arcade",
+      "slug": "arcade",
+      "name": "Oasis Arcade",
+      "phase": "",
+      "location": "Greater Noida",
+      "city": "Greater Noida",
+      "status": "upcoming",
+      "statusLabel": "Upcoming",
+      "families": "Coming Soon",
+      "bhk": "Commercial",
+      "nearbyLabel": "Prime Commercial Hub",
+      "rera": "RERA Awaited",
+      "image": "",
+      "tagline": "Premium Commercial Spaces in a Strategic Hub",
+      "desc": "A premium commercial development offering state-of-the-art retail and office spaces in a strategically located hub in Greater Noida — designed for modern businesses.",
+      "highlights": ["Prime Commercial Location","Retail & Office Spaces","Modern Architecture","High Footfall Area","Excellent Connectivity","Investment Opportunity"],
+      "amenities": [
+        { "icon": "🏢", "label": "Office Spaces" },
+        { "icon": "🛍️", "label": "Retail Spaces" },
+        { "icon": "🚗", "label": "Ample Parking" },
+        { "icon": "⚡", "label": "Power Backup" },
+        { "icon": "🛡️", "label": "Security" },
+        { "icon": "🌐", "label": "High-Speed Internet" },
+        { "icon": "❄️", "label": "Central AC" },
+        { "icon": "🍽️", "label": "Food Court" }
+      ],
+      "configs": [
+        { "type": "Retail Shop", "area": "200 – 800 sq.ft.", "floor": "G+3", "price": "Call for Price" },
+        { "type": "Office Space", "area": "400 – 2000 sq.ft.", "floor": "G+3", "price": "Call for Price" }
+      ]
+    }
+  ],
+  "testimonials": [
+    { "id": "1", "name": "Punendru Kumar", "unit": "A 401", "project": "Venetia Heights", "rating": 5, "text": "I would like to extend my heartfelt thanks and congratulations to the Oasis team for their outstanding accomplishments. Each member has played a vital role in creating a truly wonderful space that will be our dream home. You have made the entire process smooth and enjoyable so far.", "approved": true },
+    { "id": "2", "name": "Deepa Pathnayak", "unit": "B 1505-1506", "project": "Venetia Heights", "rating": 5, "text": "Oasis is a fantastic builder known for its transparency and customer-friendly approach. Their team is available around the clock. For Oasis, it's not just about contracts or sales — it's about building lasting relationships. I wholeheartedly recommend Oasis to all property buyers.", "approved": true },
+    { "id": "3", "name": "Raj Kumar Pandey", "unit": "A 1401", "project": "Venetia Heights", "rating": 5, "text": "Choosing Oasis Venetia Heights was one of the best decisions we made. From the initial booking to the final handover, the process has been seamless. The team was always responsive, transparent, and cooperative. Our home is a reflection of thoughtful design and quality construction.", "approved": true },
+    { "id": "4", "name": "Sudipta Banerjee", "unit": "Phoenix 1405", "project": "Grandstand", "rating": 5, "text": "I am truly delighted to be a part of the Oasis Grandstand community. I want to sincerely thank the entire Oasis team for delivering a home that exceeds expectations. The planning, construction quality, and amenities reflect a thoughtful approach and a strong commitment to excellence.", "approved": true },
+    { "id": "5", "name": "Vikas Poddar", "unit": "Silverstone 706", "project": "Grandstand", "rating": 5, "text": "I'm extremely happy and proud to be a part of the Oasis Grandstand family. The construction quality, design, and overall layout are truly impressive. Every detail reflects thoughtful planning and a strong commitment to customer satisfaction.", "approved": true },
+    { "id": "6", "name": "Aarti Garg", "unit": "Detroit 202", "project": "Grandstand", "rating": 5, "text": "I am truly pleased to share my experience as a proud homeowner at Oasis Grandstand YXP. The quality of construction, attention to detail, and thoughtfully designed spaces have exceeded my expectations. Oasis Grandstand YXP isn't just a project — it's a community I'm proud to be a part of.", "approved": true }
+  ],
+  "whyInvest": [
+    { "icon": "🏆", "title": "Financial Integrity", "desc": "We meet all obligations with full transparency — from clients to government authorities — with honesty and compliance at every step." },
+    { "icon": "💎", "title": "Premium Quality", "desc": "We use the best materials available without compromising quality, delivering construction that stands the test of time." },
+    { "icon": "🤝", "title": "Customer Service", "desc": "With a clear focus on high-level transparency and understanding clients' needs, we continuously strive to ensure complete satisfaction." },
+    { "icon": "🎯", "title": "Timely Delivery", "desc": "Our 23-year track record of on-time delivery is your guarantee. We embrace deadlines as a personal challenge." },
+    { "icon": "💡", "title": "Innovation", "desc": "Continual self-improvement drives every project — combining innovative ideas with current market trends for exceptional outcomes." },
+    { "icon": "📍", "title": "Prime Locations", "desc": "Strategic locations near Noida Airport, Yamuna Expressway, and F1 Circuit — properties with strong appreciation potential." }
+  ],
+  "contact": {
+    "address": "A 77, Sector 2, Noida, Uttar Pradesh - 201301",
+    "phone1": "+91 8010-111-777",
+    "phone2": "+91 9999-000-911",
+    "email": "info@oasis.in",
+    "hours": "Monday – Saturday: 10:00 AM – 6:00 PM",
+    "whatsapp": "919999000911",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.1!2d77.3185!3d28.614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzUwLjQiTiA3N8KwMTknMDYuNiJF!5e0!3m2!1sen!2sin!4v1600000000000!5m2!1sen!2sin",
+    "social": {
+      "facebook": "https://www.facebook.com/OASISREALTECH/",
+      "twitter": "https://x.com/OasisGroupIndia",
+      "instagram": "https://www.instagram.com/oasis_groupindia/"
+    }
+  }
+}
