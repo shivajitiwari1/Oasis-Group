@@ -71,7 +71,7 @@ export default function AboutPage() {
           <div className="gold-line" style={{ marginBottom: 40 }} />
           <div className="leader-card">
             <div className="leader-photo">
-              <img src={leadership.image} alt={leadership.name} onError={() => {}} />
+              <img src={leadership.image} alt={leadership.name} />
             </div>
             <div>
               <div className="leader-name">{leadership.name}</div>
